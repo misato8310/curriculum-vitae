@@ -96,7 +96,8 @@ IaaS を用いたサーバ構築や運用の実務経験が7年ほどありま�
     - さくらのクラウド、AWS での構築、運用経験があります。
         - AWS サービスを用いたスケールアウト、スケールイン対応も経験あり
     - サーバ障害やアラート、脆弱性対応などの実務経験もあります。
-    - Windows Server、Ubuntu サーバの構築と運用経験もありますが、サービスの起動程度しか経験はありません。
+    - Windows Server、Ubuntu サーバの構築と運用経験もあります。
+        - サービスの起動やユーザ作成などの対応ができます。
 - IaC の実務経験
     - 半年程度の実務経験があります。
     - 現在は主に Terraform を使用して AWS インスタンスの作成や管理をしています。
@@ -122,9 +123,16 @@ IaaS を用いたサーバ構築や運用の実務経験が7年ほどありま�
 
 - Web サーバの構築 
     - EC2/ELB/RDS で WordPress の動作環境を構築、Web コンテンツをアップロードするためのアクセス制御などを担当しました。
+    - OS は CentOS や AmazonLinux が中心です。数回程度 Ubuntu で Web サーバを起動した経験があります。
 - ゲームサーバの構築
     - EC2/ELB/RDS/ElastiCache でゲームサーバの構築を担当しました。
         - RDS/ElastiCache はプライベート公開にするなどの対応も経験があります。
+    - こちらも OS は CentOS や AmazonLinux が中心です。
+- Windows Server の初期設定
+    - Windows Server で以下の初期設定を適用した経験があります。
+        - ユーザ作成
+        - タイムゾーンの設定変更
+        - バッチの定時実行設定
 - CDN の構築
     - CloudFront/S3 を用いて静的 Web サイトを公開しました。
     - CloudFront や S3 のアクセス制限設定について経験があります。
@@ -206,7 +214,3 @@ IaaS を用いたサーバ構築や運用の実務経験が7年ほどありま�
 |-|-|
 |AWS Certified Solutions Architect - Associate|2019年|
 |AWS Certified Cloud Practitioner|2020年|
-
-## その他
-
-- PPAP(パスワード付きZIP) に対し強い嫌悪感があります。
